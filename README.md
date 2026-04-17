@@ -34,6 +34,12 @@ If the `--summarize` flag is used, the `summarize_with_gemma` function:
 * Uses a "System Prompt" to tell the AI how to behave (e.g., "Summarize concisely in clear paragraphs").
 * Returns the AI-generated summary.
 
+### **3. Usage**
+Vide: 6 Hallmarks of Cancer | What you need to know
+python youtube_transcript_generator.py https://www.youtube.com/watch?v=z0val1d7Ll4
+python youtube_transcript_generator.py https://www.youtube.com/watch?v=z0val1d7Ll4 --summarize
+
+
 ---
 
 ## **Technical Requirements**
