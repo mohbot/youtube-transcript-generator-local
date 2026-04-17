@@ -35,8 +35,9 @@ If the `--summarize` flag is used, the `summarize_with_gemma` function:
 * Returns the AI-generated summary.
 
 ### **3. Usage**
-Video: 6 Hallmarks of Cancer | What you need to know 
-python youtube_transcript_generator.py https://www.youtube.com/watch?v=z0val1d7Ll4 
+Video: 6 Hallmarks of Cancer | What you need to know. 
+python youtube_transcript_generator.py https://www.youtube.com/watch?v=z0val1d7Ll4. 
+
 python youtube_transcript_generator.py https://www.youtube.com/watch?v=z0val1d7Ll4 --summarize
 
 
