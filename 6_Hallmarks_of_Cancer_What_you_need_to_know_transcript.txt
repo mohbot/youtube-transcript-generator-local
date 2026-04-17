@@ -1,0 +1,44 @@
+Music
+First described in 2000 by a research team led by renowned cancer biologist Dr. Robert Weinberg,
+the hallmarks of cancer are distinct biological properties of cancer cells that contribute to the cancer phenotype.
+Although our understanding of cancer has grown tremendously in the years since Weinberg's publication,
+these original six features of cancer have remained.
+Let's now explore more closely these common processes that are known to underlie cancer development and progression.
+The proliferation or division of normal cells is a tightly regulated process, often referred to as the cell cycle.
+In normal tissues, a fine balance of cell division is controlled by both internal mechanisms and external signals from the cellular environment.
+Under growth promoting conditions, a cell will receive intrinsic and extrinsic signals to enter the cell cycle.
+Conversely, these pathways are inactivated during unfavorable conditions,
+preventing cell growth and proliferation and causing the cell to exit the cell cycle.
+Cancer cells have the ability to sustain proliferation even when conditions do not warrant it.
+They can produce their own growth factors or signal to other cells in the microenvironment to do so.
+Cell surface receptors on the cancer cell can also be dysregulated so that they become hypersensitive to growth signals or persist in an active state at all times.
+Just as there are signals to indicate when a cell should grow and divide,
+the cell also has mechanisms in place to limit cellular proliferation and prevent cell division when necessary.
+Some of these mechanisms are extrinsic, such as the presence of anti-growth factors in the extracellular environment.
+Others are intrinsic.
+Normal cells possess several internal checkpoints along the cell cycle that monitor the overall health of the cell
+and determine if conditions are suitable to continue through the cell cycle.
+In cancer cells, these checkpoints and anti-growth signaling pathways are often absent or disrupted, which results in persistent cell division.
+Many organisms possess mechanisms for eliminating defective or abnormal cells from their tissues,
+as these cells could pose a threat to the overall health of the organism.
+One such mechanism is through programmed cell death, or apoptosis.
+Apoptosis is a highly regulated process involving many proteins and other molecules in the cell that leads to the systematic elimination of damaged cells.
+It is common for cancer cells to accumulate disruptive alterations in the apoptosis pathway, allowing them to avoid cell death.
+In the cancerous state, there is a failure of this intrinsic mechanism to destroy damaged or abnormal cells in the body.
+Most cells have a finite lifespan that is usually linked to the number of cell divisions that can take place.
+This lifespan is controlled by multiple mechanisms that involve sensing or counting the number of divisions that have occurred.
+Cancer cells often lose these internal mechanisms, which control the number of cell divisions that take place, allowing for indefinite replication or immortalization.
+Importantly, it is this feature that has enabled much of our understanding of the properties of cancer cells.
+Many cell lines that are used for biomedical research are in fact derived from cancer cells that have become immortalized.
+In non-disease states, the cells, tissues, and organs of the body exist in a defined architecture.
+This structure is critical to the normal function of the body's organ systems.
+However, cancer cells can activate signaling pathways that allow them to invade neighboring tissues, enter the bloodstream, and travel to distant sites, a process called metastasis.
+Through metastasis, cancerous cells invade surrounding tissues and spread to other regions of the body to begin the formation of new tumors.
+Metastatic tumors typically impede the normal function of the organs that they invade, leading to increased disease severity.
+Therefore, the hallmark of invasion and metastasis is a very important aspect of disease progression and increasing disease severity.
+Angiogenesis is the process of blood vessel formation.
+Blood vessels are necessary to deliver oxygen and nutrients to the tissues of the body.
+Like normal tissues, tumors must also have access to nutrients and oxygen in order to survive.
+As solid tumors progress, cells within the tumor begin to secrete molecules that induce angiogenesis.
+Angiogenesis facilitates tumor growth by providing nutrients and oxygen required for continuous cell division and metastasis.
+you

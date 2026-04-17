@@ -1,0 +1,24 @@
+## Executive Summary:
+The hallmarks of cancer, initially defined in 2000, represent key biological properties that drive cancer development. These include uncontrolled proliferation, evasion of cell death, replicative immortality, and the ability to invade and metastasize. Understanding these processes is crucial for developing effective cancer treatments and therapies.
+
+## Key Takeaways:
+*   **Uncontrolled Proliferation:** Cancer cells bypass normal cell cycle regulation, continuously dividing even without external signals.
+*   **Evasion of Apoptosis:** Cancer cells disable programmed cell death mechanisms, preventing the elimination of damaged cells.
+*   **Replicative Immortality:** Cancer cells lose the ability to limit cell divisions, allowing for indefinite replication.
+*   **Metastasis:** Cancer cells invade surrounding tissues and spread to distant sites through a process called metastasis.
+*   **Angiogenesis:** Tumors stimulate the formation of new blood vessels to supply nutrients and oxygen for growth and metastasis.
+
+## Detailed Breakdown:
+The concept of the “hallmarks of cancer” was first articulated by Robert Weinberg in 2000, establishing a foundational understanding of how cancer cells differ from normal cells. At its core, cancer isn't simply a single disease but a collection of distinct biological behaviors. Let’s delve into each of these hallmarks.
+
+**Proliferation and the Cell Cycle:** Normal cells operate within a tightly controlled cell cycle, a series of events that govern growth and division. This process is regulated by both internal signals and external cues. However, cancer cells disrupt this balance. They can produce their own growth factors, become overly sensitive to growth signals through dysregulated cell surface receptors, or simply remain constantly activated, leading to uncontrolled proliferation.
+
+**Evasion of Apoptosis (Programmed Cell Death):**  A critical defense mechanism in healthy cells is apoptosis – a carefully orchestrated process of self-destruction. Cancer cells frequently disable this pathway, preventing the removal of damaged or abnormal cells. This allows them to accumulate mutations and continue dividing without consequence.
+
+**Replicative Immortality:**  Normal cells have a limited lifespan, determined by the number of times they can divide. Cancer cells lose these internal controls, effectively becoming “immortal” and able to replicate indefinitely. This is a key reason why cancer cells are so difficult to eradicate – they can continuously divide and create more cells. Many research cell lines are derived from immortalized cancer cells.
+
+**Metastasis – The Spread of Cancer:** Cancer doesn’t stay localized. Metastasis is the process by which cancer cells break away from the primary tumor, invade surrounding tissues, enter the bloodstream or lymphatic system, and establish new tumors in distant parts of the body. This complex process is a major driver of disease severity and is a significant challenge in cancer treatment.
+
+**Angiogenesis – Fueling Tumor Growth:**  Tumors require a constant supply of oxygen and nutrients to grow and thrive.  Cancer cells stimulate angiogenesis, the formation of new blood vessels, to provide this support.  This process is crucial for tumor growth and also facilitates metastasis by providing a pathway for cancer cells to spread.
+
+Finally, it’s important to note that the architecture of normal tissues is critical for their function. Cancer disrupts this architecture through invasion and metastasis, further compromising organ function and contributing to disease severity.
